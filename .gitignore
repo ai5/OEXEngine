@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+.sl/
+.git/config
+.git/
+# Kotlin
+.kotlin/
+
+*.nnue
+*.db
+*.bin
+docs/logs
+out
+dart/
+cs/

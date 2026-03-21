@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enginelist>
+    <engine
+        name="YaneuraOu 7.5 + Suisho5 "
+        filename="libyaneuraou.so"
+        target="arm64-v8a|x86_64" 
+    	assets="engine_data"/>
+</enginelist>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OEXEngine</string>
+    <string name="title">YaneuraOu7.5 + Suisho 5</string>
+    <string name="info_line1">If you want to use YaneuraOu on Android, please use a compatible GUI.</string>
+    <string name="label_gui">Compatible GUI</string>
+    <string name="label_shogidroid">ShogiDroid2</string>
+    <string name="link_text">YaneuraOu(https://github.com/yaneurao/yaneuraou)</string>
+    <string name="button_test">Test</string>
+</resources>
