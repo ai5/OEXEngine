@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">OEXEngine</string>
     <string name="title">やねうら王7.5 + 水匠 5</string>
     <string name="info_line1">やねうら王をAndroidで使う場合は対応のGUIを使ってください。</string>
     <string name="label_gui">対応GUI</string>

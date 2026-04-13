@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">OEXEngine</string>
+    <string name="app_name" translatable="false">OEXEngine</string>
     <string name="title">YaneuraOu7.5 + Suisho 5</string>
     <string name="info_line1">If you want to use YaneuraOu on Android, please use a compatible GUI.</string>
     <string name="label_gui">Compatible GUI</string>
